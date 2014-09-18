@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Core.js</file>
+        <file>qml/LoginPage.qml</file>
+        <file>qml/LoginController.js</file>
+        <file>qml/ResultsPage.qml</file>
+        <file>qml/MonthPage.qml</file>
+        <file>qml/Credentials.js</file>
+        <file>resources/fontawesome-webfont.ttf</file>
+        <file>qml/FontAwesomeButton.qml</file>
+        <file>qml/FontAwesome.js</file>
+        <file>qml/Const.js</file>
+        <file>resources/Lobster.ttf</file>
+        <file>qml/Title.qml</file>
+        <file>qml/style.css</file>
+        <file>resources/icon.png</file>
+        <file>resources/icon.ico</file>
+    </qresource>
+</RCC>
