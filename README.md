@@ -16,3 +16,6 @@ de Andre Somers: https://qt-project.org/wiki/Simple_encryption
 # Deploy en windows :
  Para copiar las librerias de Qt en el directorio del ejecutable
  ´windeployqt.exe .\notas-uned.exe´
+
+# Qt
+Versión: Qt 5.2.1
